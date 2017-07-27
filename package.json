@@ -9,7 +9,7 @@
     "start": "node server",
     "build": "webpack"
   },
-  "author": "Ahmed Haque",
+  "author": "Ageel Shatry",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.12.0",
